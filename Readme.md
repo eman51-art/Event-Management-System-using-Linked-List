@@ -56,6 +56,3 @@ This structure helps in understanding dynamic memory allocation and pointer-base
 - **Level:** Beginner to Intermediate  
 - **Purpose:** Learning & Practice  
 
-
-The application only accepts dates in the following format:
-
